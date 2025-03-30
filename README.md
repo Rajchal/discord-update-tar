@@ -39,7 +39,7 @@ chmod +x /usr/bin/update-discord
 
 1. Run the update script:
     ```bash
-    ./update-script.sh
+    ./update-script.sh # Or use `update-discord` if followed the recommendations
     ```
 2. Follow the prompts to:
    - Update Discord to the latest version.
@@ -65,10 +65,7 @@ Contributions are welcome! Please follow these steps:
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, feel free to reach out at your-email@example.com.
+For questions or feedback, feel free to reach out at rajchalanjal1@gmail.com.
