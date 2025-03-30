@@ -24,6 +24,17 @@ A utility tool for automating Discord updates and managing symbolic links for ea
     chmod +x update-script.sh
     ```
 
+## Recommendation
+
+```bash
+git clone https://github.com/your-username/discord-update-tar.git
+cd discord-update-tar
+mv update-script.sh /usr/bin/update-discord
+chmod +x /usr/bin/update-discord
+```
+> [!IMPORTANT]
+> use `update-discord` to update discord now 
+
 ## Usage
 
 1. Run the update script:
