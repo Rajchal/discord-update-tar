@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 DISCORD_URL="https://discord.com/api/download?platform=linux&format=tar.gz"
 INSTALL_DIR="/opt"
